@@ -1,3 +1,10 @@
 <a href="#" class="logo">
         <img src="<?= URL_ASSETS ?>img/icono.png" alt="Logo">
     </a>
+<form action="<?= url('buscar') ?>" method="GET">
+        <input type="search" name="q" placeholder="Buscar libros..."
+            value="<?= isset($_GET['q']) ? htmlspecialchars($_GET['q']) : '' ?>">
+        <button class="bus" type="submit">
+            <img src="<?= URL_ASSETS ?>img/carro.png" alt="Buscar">
+        </button>
+    </form>
