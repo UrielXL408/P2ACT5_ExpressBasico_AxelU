@@ -1,0 +1,13 @@
+const pie = document.getElementById("pie");
+
+pie.style.width = "95%";
+pie.style.maxWidth = "1200";
+pie.style.background = "linear-gradient(to right, #041435, #1536a2, #2054ad)";
+pie.style.color = "white";
+pie.style.padding = "20px 20px";
+pie.style.textAlign = "center";
+pie.style.boxSizing = "border-box";
+pie.style.overflow = "hidden";
+pie.style.fontSize = "25px";
+pie.style.fontFamily = "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif";
+pie.style.margin = "0 auto 20px"; 

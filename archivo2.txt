@@ -1,0 +1,1 @@
+. No es un lenguaje de programación, sino un lenguaje de marcado que utiliza etiquetas (como <h1> o <p>) para indicar a los navegadores cómo organizar textos, imágenes y enlaces.

@@ -1,0 +1,1 @@
+HTML (HyperText Markup Language) es el lenguaje estándar utilizado para estructurar y presentar contenido en la web.
