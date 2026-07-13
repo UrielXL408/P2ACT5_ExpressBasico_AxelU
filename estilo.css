@@ -1,6 +1,6 @@
 const pie = document.getElementById("pie");
 
-pie.style.width = "95%";
+pie.style.width = "96%";
 pie.style.maxWidth = "1200";
 pie.style.background = "linear-gradient(to right, #041435, #1536a2, #2054ad)";
 pie.style.color = "white";
